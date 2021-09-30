@@ -9,5 +9,46 @@
 header {
     height: 90px;
     background-color: violet;
+    margin-bottom: 20px;
+}
+
+/* .mb-20 {
+    margin-bottom: 20px;
+} */
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* main */
+
+.links {
+    width: 30%;
+}
+
+.main-content {
+    width: 70%;;
+}
+
+
+/* ****** debug ***** */
+.debug .links {
+    height: 300px;
+    background-color: blue;
+}
+
+.debug .main-content {
+    height: 500px;
+    background-color: tomato;
 }
 
