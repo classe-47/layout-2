@@ -9,13 +9,6 @@ body {
     padding: 10px;
 }
 
-/* header */
-header {
-    height: 90px;
-    background-color: violet;
-    margin-bottom: 20px;
-}
-
 .container {
     width: 70%;
     margin: 0 auto;
@@ -38,6 +31,13 @@ header {
     content: "";
     display: table;
     clear: both;
+}
+
+/* header */
+header {
+    height: 90px;
+    background-color: violet;
+    margin-bottom: 20px;
 }
 
 /* main */
