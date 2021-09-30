@@ -49,6 +49,10 @@ main {
     width: 70%;;
 }
 
+.box {
+    width: 20%;
+}
+
 
 /* footer */
 
@@ -67,5 +71,15 @@ footer {
 .debug .main-content {
     height: 500px;
     background-color: tomato;
+}
+
+.debug .row {
+    padding: 10px;
+}
+
+.debug .box {
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid grey;
 }
 
