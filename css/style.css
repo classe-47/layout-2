@@ -37,7 +37,8 @@ main {
 }
 
 .links {
-    width: 30%;
+    width: 28%;
+    margin-right: 2%;
 }
 
 .main-content {
