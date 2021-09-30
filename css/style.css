@@ -16,6 +16,12 @@ header {
     margin-bottom: 20px;
 }
 
+.container {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
 /* .mb-20 {
     margin-bottom: 20px;
 } */
