@@ -32,12 +32,24 @@ header {
 
 /* main */
 
+main {
+    margin-bottom: 20px;
+}
+
 .links {
     width: 30%;
 }
 
 .main-content {
     width: 70%;;
+}
+
+
+/* footer */
+
+footer {
+    height: 100px;
+    background-color: violet;
 }
 
 
